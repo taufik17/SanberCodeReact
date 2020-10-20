@@ -1,0 +1,104 @@
+{
+  "produk": [
+    {
+      "id": "1",
+      "nama": "Macbook Air 2020",
+      "harga": "20337100",
+      "stock": "3",
+      "vendor": "Apple",
+      "gambaruri": "https://cnet1.cbsistatic.com/img/_3RozH4A8v5hP8ERVdzW0PTtbL4=/420x236/2020/03/19/5de637d4-b897-4fce-9155-e625bc7c9503/img-8349.jpg",
+      "kategoriid": "999",
+      "kategori": "Macbook"
+    },
+    {
+      "id": "2",
+      "nama": "Macbook Pro 15\" Mid 2020",
+      "harga": "39831000",
+      "stock": "10",
+      "vendor": "Apple",
+      "gambaruri": "https://static.bmdstatic.com/pk/product/medium/5d2edfcf1f765.jpg",
+      "kategoriid": "999",
+      "kategori": "Macbook"
+    },
+    {
+      "id": "3",
+      "nama": "APPLE MacBook MJY42ID",
+      "harga": "29789000",
+      "stock": "0",
+      "vendor": "Apple",
+      "gambaruri": "https://static.bmdstatic.com/pk/product/medium/APPLE-MacBook-MJY42ID-A-Space-Grey-SKU01416568-201631716253.jpg",
+      "kategoriid": "999",
+      "kategori": "Macbook"
+    },
+    {
+      "id": "4",
+      "nama": "APPLE MacBook [MNYN2ID/A] - Rose Gold",
+      "harga": "24628000",
+      "stock": "7",
+      "vendor": "Apple",
+      "gambaruri": "https://static.bmdstatic.com/pk/product/medium/5a5433c52ec95.jpg",
+      "kategoriid": "999",
+      "kategori": "Macbook"
+    },
+    {
+      "id": "5",
+      "nama": "Macbook Pro 15\" Mid 2020",
+      "harga": "39831000",
+      "stock": "10",
+      "vendor": "Apple",
+      "gambaruri": "https://static.bmdstatic.com/pk/product/medium/5d2edfcf1f765.jpg",
+      "kategoriid": "999",
+      "kategori": "Macbook"
+    },
+    {
+      "id": "6",
+      "nama": "Macbook Air 2020",
+      "harga": "20337100",
+      "stock": "3",
+      "vendor": "Apple",
+      "gambaruri": "https://cnet1.cbsistatic.com/img/_3RozH4A8v5hP8ERVdzW0PTtbL4=/420x236/2020/03/19/5de637d4-b897-4fce-9155-e625bc7c9503/img-8349.jpg",
+      "kategoriid": "999",
+      "kategori": "Macbook"
+    },
+    {
+      "id": "7",
+      "nama": "Macbook Pro 15\" Mid 2020",
+      "harga": "39831000",
+      "stock": "10",
+      "vendor": "Apple",
+      "gambaruri": "https://static.bmdstatic.com/pk/product/medium/5d2edfcf1f765.jpg",
+      "kategoriid": "999",
+      "kategori": "Macbook"
+    },
+    {
+      "id": "8",
+      "nama": "APPLE MacBook MJY42ID",
+      "harga": "29789000",
+      "stock": "0",
+      "vendor": "Apple",
+      "gambaruri": "https://static.bmdstatic.com/pk/product/medium/APPLE-MacBook-MJY42ID-A-Space-Grey-SKU01416568-201631716253.jpg",
+      "kategoriid": "999",
+      "kategori": "Macbook"
+    },
+    {
+      "id": "9",
+      "nama": "APPLE MacBook [MNYN2ID/A] - Rose Gold",
+      "harga": "24628000",
+      "stock": "7",
+      "vendor": "Apple",
+      "gambaruri": "https://static.bmdstatic.com/pk/product/medium/5a5433c52ec95.jpg",
+      "kategoriid": "999",
+      "kategori": "Macbook"
+    },
+    {
+      "id": "10",
+      "nama": "Macbook Pro 15\" Mid 2020",
+      "harga": "39831000",
+      "stock": "10",
+      "vendor": "Apple",
+      "gambaruri": "https://static.bmdstatic.com/pk/product/medium/5d2edfcf1f765.jpg",
+      "kategoriid": "999",
+      "kategori": "Macbook"
+    }
+  ]
+}
